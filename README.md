@@ -12,4 +12,4 @@ Projeto desenvolvido durante a imersão front-end da Alura, objetivando criar a 
 ----------
 
 ## Como Visualizar o Projeto
-🔗 Acesse o projeto aqui: 
+🔗 Acesse o projeto aqui: https://alinenunesf.github.io/projeto-spotify/
