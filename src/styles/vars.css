@@ -1,0 +1,18 @@
+:root {
+    --font-dm-sans: "DM Sans", sans-serif;
+    
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0, 0, 0.7);
+    --bg-nav: #121212;
+    --bg-search: #242424;
+
+    --text-base-dark: #000;
+    --text-base-light: #fff;
+    --text-sub: #a7a7a7;
+    --text-sidebar: #b3b3b3;
+
+    --grid-gap: 24px;
+    --column-count: 5;
+
+
+}
